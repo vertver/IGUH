@@ -15,18 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IG_Errorhandler.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="IG_Thread.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="IG_Filesystem.cpp">
+    <ClCompile Include="IG_RenderEntry.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="IG_Kernel.h">
+    <ClInclude Include="IG_Render.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
